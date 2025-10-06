@@ -4,3 +4,4 @@
 Usage
 Run from source: Download,
 replace https://target.com in dos.html file with your target and open dos.html with yor browser.
+.
